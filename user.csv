@@ -1,63 +1,63 @@
 RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
-8800001,BUPATI (DD14BUP),DD14BUP,,Pangkalan Kerinci,Pelalawan,04 Riau
-8800080,HEMI (DD14RDN),DD14RDN,MIDJAYA,Pangkalan Kerinci,Pelalawan,04 Riau
-8800100,SUWARDI (DD14GAS),DD14GAS,,Pangkalan Kerinci,Pelalawan,04 Riau
-8800101,DEDE (DD14DD),DD14DD,SURIADI,Pangkalan Kerinci,Pelalawan,04 Riau
-8800102,DEDE (DD14DFB),DD14DFB,FEBRIAN,Pangkalan Kerinci,Pelalawan,04 Riau
-8800103,SUCI (DD14SCR),DD14SCR,RESYAJI,Pangkalan Kerinci,Pelalawan,04 Riau
-8800104,TEGUH (DD14TRS),DD14TRS,RIZKI SYAPUTRA,Pangkalan Kerinci,Pelalawan,04 Riau
-8800105,DONI (DD14DNH),DD14DNH,HARIYANTO,Pangkalan Kerinci,Pelalawan,04 Riau
-8800106,DWI (DD14DWI),DD14DWI,HARIYONO,Pangkalan Kerinci,Pelalawan,04 Riau
-8800107,YENI (DD14YNI),DD14YNI,UTAMI WULANDARI,Pangkalan Kerinci,Pelalawan,04 Riau
-8800108,LILIS (DD14LLS),DD14LLS,SUMINAR,Pangkalan Kerinci,Pelalawan,04 Riau
-8800109,CANDRA (DD14CND),DD14CND,RIZKI RAMADHAN,Pangkalan Kerinci,Pelalawan,04 Riau
-8800110,SUKATNO (DD14SKT),DD14SKT,,Pangkalan Kerinci,Pelalawan,04 Riau
-8800111,EKO (DD14EPR),DD14EPR,PURWANTO,Pangkalan Kerinci,Pelalawan,04 Riau
-8800112,INDRA (DD14INP),DD14INP,PENI,Pangkalan Kerinci,Pelalawan,04 Riau
-8800113,RAIMEN (DD14RMN),DD14RMN,DAMANIK,Pangkalan Kerinci,Pelalawan,04 Riau
-8800114,JUMARI (DD14JMR),DD14JMR,,Pangkalan Kerinci,Pelalawan,04 Riau
-8800115,SUWATNO (DD14SWT),DD14SWT,,Pangkalan Kerinci,Pelalawan,04 Riau
-8800116,DIDI (DD14DDT),DD14DDT,TURIDI,Pangkalan Kerinci,Pelalawan,04 Riau
-8800117,SUGIONO (DD14SGN),DD14SGN,,Pangkalan Kerinci,Pelalawan,04 Riau
-8800118,SARIYANI (DD14SRY),DD14SRY,,Pangkalan Kerinci,Pelalawan,04 Riau
-8800119,YUMESRI (DD14YMS),DD14YMS,,Pangkalan Kerinci,Pelalawan,04 Riau
-8800120,M_ARIF (DD14ARF),DD14ARF,,Pangkalan Kerinci,Pelalawan,04 Riau
-8800121,SUWARDI (DD14SWD),DD14SWD,,Pangkalan Kerinci,Pelalawan,04 Riau
-8800122,ROHMAT (DD14RHM),DD14RHM,,Pangkalan Kerinci,Pelalawan,04 Riau
-8800123,SUGIYARSO (DD14SGY),DD14SGY,,Pangkalan Kerinci,Pelalawan,04 Riau
-8800124,AGUS (DD14AGP),DD14AGP,PRIANTO,Pangkalan Kerinci,Pelalawan,04 Riau
-8800125,YAZID (DD14YZB),DD14YZB,BUSTOMI,Pangkalan Kerinci,Pelalawan,04 Riau
-8800126,SUGIMAN (DD14SGM),DD14SGM,,Pangkalan Kerinci,Pelalawan,04 Riau
-8800127,BAMBANG (DD14BBH),DD14BBH,HERMANTO,Pangkalan Kerinci,Pelalawan,04 Riau
-8800128,SUWALIM (DD14SWL),DD14SWL,,Pangkalan Kerinci,Pelalawan,04 Riau
-8800129,MANDARJO (DD14MDJ),DD14MDJ,,Pangkalan Kerinci,Pelalawan,04 Riau
-8800130,JUHAERI (DD14JHR),DD14JHR,,Pangkalan Kerinci,Pelalawan,04 Riau
-8800131,ABDUL (DD14AKD),DD14AKD,KHODIR,Pangkalan Kerinci,Pelalawan,04 Riau
-8800132,ARIS (DD14ARS),DD14ARS,SUSENO,Pangkalan Kerinci,Pelalawan,04 Riau
-8800133,EDY (DD14EDS),DD14EDS,SUSILO,Pangkalan Kerinci,Pelalawan,04 Riau
-8800134,SRIYATNO (DD14JLP),DD14JLP,,Pangkalan Kerinci,Pelalawan,04 Riau
-8800135,SURATMAN (DD14SRT),DD14SRT,,Pangkalan Kerinci,Pelalawan,04 Riau
-8800136,NASIKUN (DD14NSK),DD14NSK,,Pangkalan Kerinci,Pelalawan,04 Riau
-8800137,HARTOYO (DD14HRT),DD14HRT,,Pangkalan Kerinci,Pelalawan,04 Riau
-8800138,NASRUL (DD14NSL),DD14NSL,FOTO,Pangkalan Kerinci,Pelalawan,04 Riau
-8800139,ILHAM (DD14IEN),DD14IEN,EFENDI NASUTION,Pangkalan Kerinci,Pelalawan,04 Riau
-8800140,RIDWAN (DD14RDW),DD14RDW,PASARIBU,Pangkalan Kerinci,Pelalawan,04 Riau
-8800141,MAHYUDIN (DD14MAH),DD14MAH,HARAHAP,Pangkalan Kerinci,Pelalawan,04 Riau
-8800142,SUKAMTO (DD14SKM),DD14SKM,,Pangkalan Kerinci,Pelalawan,04 Riau
-8800143,AFRIZAL (DD14AFR),DD14AFR,,Pangkalan Kerinci,Pelalawan,04 Riau
-8800144,AGUS (DD14AGS),DD14AGS,MIRAN,Pangkalan Kerinci,Pelalawan,04 Riau
-8800145,GUNAWAN (DD14GUN),DD14GUN,RIANTO,Pangkalan Kerinci,Pelalawan,04 Riau
-8800146,WEMPI (DD14KMZ),DD14KMZ,KAMRI,Pangkalan Kerinci,Pelalawan,04 Riau
-8800147,HERI  (DD14HRS),DD14HRS,SUSENO,Pangkalan Kerinci,Pelalawan,04 Riau
-8800148,ISMAIL (DD14ISM),DD14ISM,,Pangkalan Kerinci,Pelalawan,04 Riau
-8800149,AJI (DD14AJI),DD14AJI,,Pangkalan Kerinci,Pelalawan,04 Riau
-8800150,YUMINO (DD14GPG),DD14GPG,,Pangkalan Kerinci,Pelalawan,04 Riau
-8800151,Ardianto (DD14AGB),DD14AGB,Gembo,Pangkalan Kerinci,Pelalawan,04 Riau
-8800152,Ajiz (DD14AAZ),DD14AAZ,Abdul Ajiz,Pangkalan Kerinci,Pelalawan,04 Riau
-8800153,Kisman (DD14KSM),DD14KSM,,Pangkalan Kerinci,Pelalawan,04 Riau
-8800154,Iwan (DD14IWS),DD14IWS,Syahputra,Pangkalan Kerinci,Pelalawan,04 Riau
-8800155,Ade (DD14AW),DD14AW,Wahyudin,Pangkalan Kerinci,Pelalawan,04 Riau
-8800156,Apriadi (DD14APS),DD14APS,Santoso,Pangkalan Kerinci,Pelalawan,04 Riau
-8800157,Saiful  (DD14SAR),DD14SAR,Arifin,Pangkalan Kerinci,Pelalawan,04 Riau
-8800158,Yubi (DD14YBA),DD14YBA,Ayub,Pangkalan Kerinci,Pelalawan,04 Riau
-8800159,Khoirul (DD14KHR),DD14KHR,Ramadan,Pangkalan Kerinci,Pelalawan,04 Riau
+8800001,DD14BUPA,BUPATI_ZUKRI,ZUKRI,Pangkalan Kerinci,Pelalawan,04 Riau
+8800080,DD14HEMI,HEMI_MIDJAYA,MIDJAYA,Pangkalan Kerinci,Pelalawan,04 Riau
+8800100,DD14KDES,SUWARDI_,,Pangkalan Kerinci,Pelalawan,04 Riau
+8800101,DD14SDES,DEDE_SURIADI,SURIADI,Pangkalan Kerinci,Pelalawan,04 Riau
+8800102,DD14DEDE,DEDE_FEBRIAN,FEBRIAN,Pangkalan Kerinci,Pelalawan,04 Riau
+8800103,DD14SUCI,SUCI_RESYAJI,RESYAJI,Pangkalan Kerinci,Pelalawan,04 Riau
+8800104,DD14TEGU,TEGUH_RIZKI SYAPUTRA,RIZKI SYAPUTRA,Pangkalan Kerinci,Pelalawan,04 Riau
+8800105,DD14DONI,DONI_HARIYANTO,HARIYANTO,Pangkalan Kerinci,Pelalawan,04 Riau
+8800106,DD14DWIH,DWI_HARIYONO,HARIYONO,Pangkalan Kerinci,Pelalawan,04 Riau
+8800107,DD14YENI,YENI_UTAMI WULANDARI,UTAMI WULANDARI,Pangkalan Kerinci,Pelalawan,04 Riau
+8800108,DD14LILI,LILIS_SUMINAR,SUMINAR,Pangkalan Kerinci,Pelalawan,04 Riau
+8800109,DD14CAND,CANDRA_RIZKI RAMADHAN,RIZKI RAMADHAN,Pangkalan Kerinci,Pelalawan,04 Riau
+8800110,DD14KATN,SUKATNO_,,Pangkalan Kerinci,Pelalawan,04 Riau
+8800111,DD14EKO,EKO_PURWANTO,PURWANTO,Pangkalan Kerinci,Pelalawan,04 Riau
+8800112,DD14INDR,INDRA_PENI,PENI,Pangkalan Kerinci,Pelalawan,04 Riau
+8800113,DD14RAIM,RAIMEN_DAMANIK,DAMANIK,Pangkalan Kerinci,Pelalawan,04 Riau
+8800114,DD14JUMA,JUMARI_,,Pangkalan Kerinci,Pelalawan,04 Riau
+8800115,DD14WATN,SUWATNO_,,Pangkalan Kerinci,Pelalawan,04 Riau
+8800116,DD14DIDI,DIDI_TURIDI,TURIDI,Pangkalan Kerinci,Pelalawan,04 Riau
+8800117,DD14GION,SUGIONO_,,Pangkalan Kerinci,Pelalawan,04 Riau
+8800118,DD14SARI,SARIYANI_,,Pangkalan Kerinci,Pelalawan,04 Riau
+8800119,DD14YUME,YUMESRI_,,Pangkalan Kerinci,Pelalawan,04 Riau
+8800120,DD14ARIF,M_ARIF_,,Pangkalan Kerinci,Pelalawan,04 Riau
+8800121,DD14WARD,SUWARDI_,,Pangkalan Kerinci,Pelalawan,04 Riau
+8800122,DD14ROHM,ROHMAT_,,Pangkalan Kerinci,Pelalawan,04 Riau
+8800123,DD14GIYA,SUGIYARSO_,,Pangkalan Kerinci,Pelalawan,04 Riau
+8800124,DD14AGPR,AGUS_PRIANTO,PRIANTO,Pangkalan Kerinci,Pelalawan,04 Riau
+8800125,DD14YAZI,YAZID_BUSTOMI,BUSTOMI,Pangkalan Kerinci,Pelalawan,04 Riau
+8800126,DD14SUGI,SUGIMAN_,,Pangkalan Kerinci,Pelalawan,04 Riau
+8800127,DD14BAMB,BAMBANG_HERMANTO,HERMANTO,Pangkalan Kerinci,Pelalawan,04 Riau
+8800128,DD14SUWA,SUWALIM_,,Pangkalan Kerinci,Pelalawan,04 Riau
+8800129,DD14MAND,MANDARJO_,,Pangkalan Kerinci,Pelalawan,04 Riau
+8800130,DD14JUHA,JUHAERI_,,Pangkalan Kerinci,Pelalawan,04 Riau
+8800131,DD14ABDU,ABDUL_KHODIR,KHODIR,Pangkalan Kerinci,Pelalawan,04 Riau
+8800132,DD14ARIS,ARIS_SUSENO,SUSENO,Pangkalan Kerinci,Pelalawan,04 Riau
+8800133,DD14EDY,EDY_SUSILO,SUSILO,Pangkalan Kerinci,Pelalawan,04 Riau
+8800134,DD14SRIY,SRIYATNO_,,Pangkalan Kerinci,Pelalawan,04 Riau
+8800135,DD14SURA,SURATMAN_,,Pangkalan Kerinci,Pelalawan,04 Riau
+8800136,DD14NASI,NASIKUN_,,Pangkalan Kerinci,Pelalawan,04 Riau
+8800137,DD14HART,HARTOYO_,,Pangkalan Kerinci,Pelalawan,04 Riau
+8800138,DD14NASR,NASRUL_FOTO,FOTO,Pangkalan Kerinci,Pelalawan,04 Riau
+8800139,DD14ILHA,ILHAM_EFENDI NASUTION,EFENDI NASUTION,Pangkalan Kerinci,Pelalawan,04 Riau
+8800140,DD14RIDW,RIDWAN_PASARIBU,PASARIBU,Pangkalan Kerinci,Pelalawan,04 Riau
+8800141,DD14MAHY,MAHYUDIN_HARAHAP,HARAHAP,Pangkalan Kerinci,Pelalawan,04 Riau
+8800142,DD14SUKA,SUKAMTO_,,Pangkalan Kerinci,Pelalawan,04 Riau
+8800143,DD14AFRI,AFRIZAL_,,Pangkalan Kerinci,Pelalawan,04 Riau
+8800144,DD14AGUS,AGUS_MIRAN,MIRAN,Pangkalan Kerinci,Pelalawan,04 Riau
+8800145,DD14GUNA,GUNAWAN_RIANTO,RIANTO,Pangkalan Kerinci,Pelalawan,04 Riau
+8800146,DD14WEMP,WEMPI_KAMRI,KAMRI,Pangkalan Kerinci,Pelalawan,04 Riau
+8800147,DD14HERI,HERI _SUSENO,SUSENO,Pangkalan Kerinci,Pelalawan,04 Riau
+8800148,DD14ISMA,ISMAIL_,,Pangkalan Kerinci,Pelalawan,04 Riau
+8800149,DD14AJI,AJI_,,Pangkalan Kerinci,Pelalawan,04 Riau
+8800150,DD14YUMI,YUMINO_,,Pangkalan Kerinci,Pelalawan,04 Riau
+8800151,DD14ARDI,ARDIANTO_GEMBO,Gembo,Pangkalan Kerinci,Pelalawan,04 Riau
+8800152,DD14AJIZ,AJIZ_ABDUL AJIZ,Abdul Ajiz,Pangkalan Kerinci,Pelalawan,04 Riau
+8800153,DD14KISM,KISMAN_,,Pangkalan Kerinci,Pelalawan,04 Riau
+8800154,DD14IWAN,IWAN_SYAHPUTRA,Syahputra,Pangkalan Kerinci,Pelalawan,04 Riau
+8800155,DD14ADE,ADE_WAHYUDIN,Wahyudin,Pangkalan Kerinci,Pelalawan,04 Riau
+8800156,DD14APRI,APRIADI_SANTOSO,Santoso,Pangkalan Kerinci,Pelalawan,04 Riau
+8800157,DD14SAIF,SAIFUL _ARIFIN,Arifin,Pangkalan Kerinci,Pelalawan,04 Riau
+8800158,DD14YUBI,YUBI_AYUB,Ayub,Pangkalan Kerinci,Pelalawan,04 Riau
+8800159,DD14KHOI,KHOIRUL_RAMADAN,Ramadan,Pangkalan Kerinci,Pelalawan,04 Riau
